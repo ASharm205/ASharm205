@@ -1,0 +1,10 @@
+<!-- Affinity diagram assignment -->
+<section class="CSCE 190 001">
+<img src="images/affinity-diagram.jpg" />
+<section class="001">
+<a href="files/affinity-diagram.pdf"><h2>Affinity diagram: Meal Plan App</h2></a>
+<p>
+brainstorming the different way the app will help students. 
+</p>
+</section>
+</section>
