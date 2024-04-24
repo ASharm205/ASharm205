@@ -1,6 +1,6 @@
 <!-- Affinity diagram assignment -->
 <section class="CSCE 190 001">
-<img src="images/affinity-diagram.jpg" />
+<img src="index.html/images/190.png" />
 <section class="001">
 <a href="files/affinity-diagram.pdf"><h2>Affinity diagram: Meal Plan App</h2></a>
 <p>
