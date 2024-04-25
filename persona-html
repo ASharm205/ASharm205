@@ -11,7 +11,7 @@
     
     <!-- Personas assignment -->
     <section class="assign">
-        <img src="https://github.com/ASharm205/index.html/blob/main/Create%20a%20new%20persona%20_%20PersonaGenerator.pdf" />
+        <img src="https://github.com/ASharm205/index.html/blob/main/images/my-persona.jpg" />
         <section class="assign-det">
             <a href="files/all-personas.pdf"><h2>Team Personas: [title]</h2></a>
             <p>
@@ -21,3 +21,4 @@
     </section>
 </body>
 </html>
+
